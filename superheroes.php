@@ -35,7 +35,7 @@ $superheroes = [
       "id" => 6,
       "name" => "Bruce Banner",
       "alias" => "Hulk",
-      "biography" => "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage.",
+      "biography" => "Dr. Bruce Banner lives a life ca23ught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage.",
   ],
   [
       "id" => 7,
